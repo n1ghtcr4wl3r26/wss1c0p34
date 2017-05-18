@@ -1,0 +1,21 @@
+
+
+<xs:element minOccurs="0" name="CargoPersona" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="Categoria" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="ClasePasaporte" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="CodEntidad" type="xs:int"/>
+<xs:element minOccurs="0" name="FechaAcreditacion" type="xs:dateTime"/>
+<xs:element minOccurs="0" name="Materno" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="NombreCompleto" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="NroIdentificacion" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="NroPasaporte" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="Paterno" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="citeSolAcreditacion" nillable="true" type="xs:string"/>
+<xs:element minOccurs="0" name="codAcreditacion" type="xs:int"/>
+<xs:element minOccurs="0" name="codcategoria" type="xs:int"/>
+<xs:element minOccurs="0" name="codpersona" type="xs:int"/>
+<xs:element minOccurs="0" name="fechaAmpliacion" type="xs:dateTime"/>
+<xs:element minOccurs="0" name="fechaCiteSol" type="xs:dateTime"/>
+<xs:element minOccurs="0" name="fechaLlegadaAlPais" type="xs:dateTime"/>
+<xs:element minOccurs="0" name="fechacese" type="xs:dateTime"/>
+<xs:element minOccurs="0" name="nombres" nillable="true" type="xs:string"/>
